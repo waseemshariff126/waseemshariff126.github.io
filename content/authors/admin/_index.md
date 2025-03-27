@@ -66,7 +66,6 @@ education:
     date_end: 2020-07-30
     summary: |
         Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN)
-
       Courses included:
       - Machine Learning/Deep Learning
       - Embedded Image Processing 
