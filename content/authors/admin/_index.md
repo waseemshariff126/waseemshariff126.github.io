@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Waseem Shariff
+title: Daniel Gehrig
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Waseem
-last_name: Shariff
+first_name: Daniel
+last_name: Gehrig
 
 # Status emoji
 status:
-  icon: 👨‍💻 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,71 +21,54 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Galway
-    url: https://www.universityofgalway.ie/c3i/
+  - name: GRASP Lab, University of Pennsylvania
+    url: https://www.grasp.upenn.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:waseemshariff126@gmail.com'
+    url: 'mailto:daniel.gehrig18@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/waseemshariff12
+    url: https://twitter.com/DanielGehrig6
   - icon: brands/github
-    url: https://github.com/waseemshariff126
+    url: https://github.com/danielgehrig18
   - icon: brands/linkedin
-    url: https://ie.linkedin.com/in/waseem-shariff-997534141
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=bgGFxfAAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-7298-9389
-
-interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Neuromorphic Imaging
-  - Driver Monitoring System
-    
-
+    url: https://www.linkedin.com/in/daniel-gehrig-942aa714b
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=FWpgbBsAAAAJ&hl=en
 
 education:
-  - area: Ph.D. Computer Vision and Artificial Intelligence
-    institution: University of Galway
-    date_start: 2022-09-15
-    date_end: 2024-01-01
+  - area: Ph.D. Computer Vision and Robotics
+    institution: University of Zurich
+    date_start: 2018-08-01
+    date_end: 2023-09-07
     summary: |
-      Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by Prof Peter Corcoran. Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
+      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Efficient, Data-driven Perception with Event Cameras_, supervised by Prof. Davide Scaramuzza. A special thanks to my reviewers who were Prof. Kostas Daniilidis, Prof. Andreas Geiger, and Prof. Marc Pollefeys.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MSc in Computer Science Specializing in Artificial Intelligence
-    institution: National University of Galway, Ireland
-    date_start: 2019-08-01
-    date_end: 2020-07-30
+  - area: MSc Mechanical Engineering
+    institution: ETH Zurich
+    date_start: 2016-02-01
+    date_end: 2018-04-01
     summary: |
-      My master thesis was on on Synthetic Face ID Generation using Generative Adversarial Network (GAN), at the C3I-Xperi Group under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
-      Courses included:
-      - Machine Learning/Deep Learning
-      - Embedded Image Processing 
-      - NLP, Research-Ethics, Programming in AI 
-        
-  - area: BE- Computer Science and Engineering
-    institution: Nagarjuna College of Engineering and Technology
-    date_start: 2015-08-01
-    date_end: 2019-05-01
+      GPA: 6.0/6.0
+
+      Courses focused on computer vision, robotics and artificial intelligence.
+      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
+  - area: BSc Mechanical Engineering
+    institution: ETH Zurich
+    date_start: 2012-09-01
+    date_end: 2015-07-01
     summary: |
-      GPA: 8.3/10
-      My bachelor thesis was on the development of Image Understanding and Captioning.
-         Courses included:
-      - Data Structures, Object Oriented Programming
-      - Software Engineering, Microprocessors, Micro-Controllers
-      - Project based Learning
-        
+      GPA: 5.6/6.0
+      My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
 work:
-  - position: Postdoctoral Researcher in the  Lab at the University of Pennsylvania
-    company_name:  Lab, University of Pennsylvania
-    company_url: 'https://www..upenn.edu/'
+  - position: Postdoctoral Researcher in the GRASP Lab at the University of Pennsylvania
+    company_name: GRASP Lab, University of Pennsylvania
+    company_url: 'https://www.grasp.upenn.edu/'
     company_logo: ''
     date_start: 2024-05-13
     date_end: ''
@@ -203,4 +186,4 @@ awards:
 
 ---
 
-I am currently a postdoctoral researcher at the C3I Laboratory, University of Galway, working on the intersection of cognitive computer vision, and deep learning with and without event cameras. I am working under the supervision of Prof. Peter Corcoran.
+I am currently a postdoctoral researcher at the GRASP Lab, University of Pennsylvania, working on the intersection of computer vision, robotics and deep learning with and without event cameras. I am working under the supervision of Prof. Kostas Daniilidis and Prof. Pratik Chaudhari.

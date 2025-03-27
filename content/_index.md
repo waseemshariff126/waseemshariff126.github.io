@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: "Waseem Shariff"
-date: 2025-03-27
+title: ""
+date: 2022-10-24
 type: landing
 
 design:
@@ -19,12 +19,12 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
     design:
-      css_class: dark
+      css_class: light
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: header_one.jpg #stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,13 +35,16 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research spans into computer vision and machine learning, where I explore both traditional imaging techniques and emerging event-based camera technologies. My primary focus is on developing advanced methodologies for processing, representing, and extracting actionable insights from complex video data. This work involves formulating novel algorithms that convert raw video inputs into structured, meaningful information. Additionally, I am deeply engaged in the field of cognitive computer vision, investigating how perceptual processes can be modeled to enhance machine understanding. I also apply these insights to driver monitoring systems, aiming to improve automotive safety through intelligent analysis of driver behavior. I am committed to advancing the state-of-the-art in these dynamic fields and welcome opportunities for collaboration with fellow researchers and industry professionals. 
+        I am a postdoctoral researcher at the GRASP Lab under the supervision of Prof. Kostas Daniilidis, and Prof. Pratik Chauhari, working on the insection of computer vision, robotics and machine learning with and without event cameras. 
 
+        My main research focus lies in understanding the best way to process, represent and extract useful information from video data . 
+        Please reach out to collaborate!
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
+      count: 0
       title: Featured Publications
       filters:
         folders:
@@ -49,7 +52,7 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 3
   - block: collection
     content:
       title: Recent Publications

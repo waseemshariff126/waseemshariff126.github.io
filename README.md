@@ -1,4 +1,4 @@
-# [Waseem Shariff](https://waseemshariff126.github.io/)
+# [Daniel Gehrig](https://github.com/HugoBlox/theme-academic-cv)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 

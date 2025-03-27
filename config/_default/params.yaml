@@ -7,6 +7,8 @@
 appearance:
   mode: system
   color: emerald
+  theme_default: dark
+
 
 # SEO
 marketing:
@@ -35,7 +37,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Daniel Gehrig"
 
 # Site footer
 footer:
