@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My research spans the nexus of computer vision and machine learning, where I explore both traditional imaging techniques and emerging event-based camera technologies.
-      
-      My primary focus is on developing advanced methodologies for processing, representing, and extracting actionable insights from complex video data. This work involves formulating novel algorithms that convert raw video inputs into structured, meaningful information. Additionally, I am deeply engaged in the field of cognitive computer vision, investigating how perceptual processes can be modeled to enhance machine understanding. I also apply these insights to driver monitoring systems, aiming to improve automotive safety through intelligent analysis of driver behavior.
-      
-      I am committed to advancing the state-of-the-art in these dynamic fields and welcome opportunities for collaboration with fellow researchers and industry professionals.
+        My research spans the nexus of computer vision and machine learning, where I explore both traditional imaging techniques and emerging event-based camera technologies. My primary focus is on developing advanced methodologies for processing, representing, and extracting actionable insights from complex video data. This work involves formulating novel algorithms that convert raw video inputs into structured, meaningful information. Additionally, I am deeply engaged in the field of cognitive computer vision, investigating how perceptual processes can be modeled to enhance machine understanding. I also apply these insights to driver monitoring systems, aiming to improve automotive safety through intelligent analysis of driver behavior. I am committed to advancing the state-of-the-art in these dynamic fields and welcome opportunities for collaboration with fellow researchers and industry professionals.
 
     design:
       columns: '1'
