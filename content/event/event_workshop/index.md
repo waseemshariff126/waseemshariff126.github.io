@@ -1,5 +1,5 @@
 ---
-title: Spiking-DD: Driver Distraction Detection using SNNs
+title: Spiking-DD Driver Distraction Detection using SNNs
 
 event: IMVIP 2024 Workshop on Event-based Vision
 event_url: https://sites.google.com/view/imvip2024/special-sessions/workshop-sensing-without-seeing
