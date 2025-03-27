@@ -60,7 +60,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc in Computer Science (Specializing in Artificial Intelligence)
+  - area: MSc in Computer Science Specializing in Artificial Intelligence
     institution: National University of Galway, Ireland
     date_start: 2019-08-1
     date_end: 2020-07-30
