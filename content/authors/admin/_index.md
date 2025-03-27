@@ -59,15 +59,14 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MSc Mechanical Engineering
-    institution: ETH Zurich
-    date_start: 2016-02-01
-    date_end: 2018-04-01
+ - area: MSc in Computer Science Specializing in Artificial Intelligence
+    institution: National University of Galway, Ireland
+    date_start: 2019-08-1
+    date_end: 2020-07-30
     summary: |
-      GPA: 6.0/6.0
-
-      Courses focused on computer vision, robotics and artificial intelligence.
-      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
+        Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN) under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
+      GPA: 1:1 First Class Honours
+   
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
     date_start: 2012-09-01
