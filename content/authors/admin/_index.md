@@ -121,10 +121,12 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: German
+  - name: Urdu
     percent: 100
-  - name: French
-    percent: 80
+  - name: Kannada
+    percent: 100
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +185,4 @@ awards:
 
 ---
 
-I am currently a postdoctoral researcher at the GRASP Lab, University of Pennsylvania, working on the intersection of computer vision, robotics and deep learning with and without event cameras. I am working under the supervision of Prof. Kostas Daniilidis and Prof. Pratik Chaudhari.
+I am a postdoctoral researcher at the C3I Laboratory under Professor Peter Corcoran, developing advanced computer vision and machine learning techniques to extract actionable insights from video data. My work spans cognitive computer vision and driver monitoring systems, leveraging both traditional and event-based imaging methods to enhance automotive safety.
