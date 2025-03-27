@@ -1,10 +1,10 @@
 ---
 title: Efficient Event Processing with Geometric Deep Learning
 
-event: CVPR 2023 Workshop on Event-based Vision
-event_url: https://tub-rip.github.io/eventvision2023/
+event: IMVIP 2024 Workshop on Event-based Vision
+event_url: https://sites.google.com/view/imvip2024/special-sessions/workshop-sensing-without-seeing
 
-location: CVPR 2023, Vancouver, Canada
+location: IMVIP 2024, Limerick, Ireland
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,20 +12,20 @@ location: CVPR 2023, Vancouver, Canada
 #  postcode: '94305'
 #  country: United States
 
-summary: A talk discussing deep learning techniques for efficient event processing at the CVPR 2023 Workshop on Event-based Vision.
+summary: A talk discussing deep learning techniques for efficient event processing at the IMVIO 2024 Workshop on Event-based Vision.
 abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-07-01T13:00:00Z'
+date: '2024-08-01'
 #date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-07-01T00:00:00Z'
+# publishDate: '2023-07-01T00:00:00Z'
 
 authors:
-  - Daniel Gehrig
+  - Waseem Shariff
 
 tags: []
 
@@ -41,10 +41,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: 'https://tub-rip.github.io/eventvision2023/slides/2023CVPRW_Daniel_Gehrig.pdf'
-url_video: 'https://www.youtube.com/watch?v=V6uGnuznIg4&ab_channel=RPGWorkshops'
+# url_code: ''
+# url_pdf: ''
+# url_slides: 'https://tub-rip.github.io/eventvision2023/slides/2023CVPRW_Daniel_Gehrig.pdf'
+# url_video: 'https://www.youtube.com/watch?v=V6uGnuznIg4&ab_channel=RPGWorkshops'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
