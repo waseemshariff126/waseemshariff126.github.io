@@ -65,7 +65,7 @@ education:
     date_end: 2020-07-30
     summary: |
         Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN) under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
-      GPA: 1:1 First Class Honours
+      GPA: First Class Honours
    
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
