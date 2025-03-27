@@ -1,4 +1,4 @@
-# [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# [Waseem Shariff](https://waseemshariff126.github.io/)
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
 
