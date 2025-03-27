@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel Gehrig
+title: Waseem Shariff
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -28,16 +28,18 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:daniel.gehrig18@gmail.com'
+    url: 'mailto:waseemshariff126@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/DanielGehrig6
+    url: https://x.com/waseemshariff12
   - icon: brands/github
-    url: https://github.com/danielgehrig18
+    url: https://github.com/waseemshariff126
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/daniel-gehrig-942aa714b
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=FWpgbBsAAAAJ&hl=en
+    url: https://ie.linkedin.com/in/waseem-shariff-997534141
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=bgGFxfAAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7298-9389
 
 education:
   - area: Ph.D. Computer Vision and Robotics
