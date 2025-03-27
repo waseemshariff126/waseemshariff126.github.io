@@ -76,7 +76,7 @@ education:
     date_end: 2019-05-01
     summary: |
       GPA: 8.3/10
-      My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
+      My bachelor thesis was on the development of Image Understanding and Captioning.
          Courses included:
       - Data Structures, Object Oriented Programming
       - Software Engineering, Microprocessors, Micro-Controllers
