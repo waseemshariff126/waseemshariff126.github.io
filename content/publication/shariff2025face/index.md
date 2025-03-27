@@ -26,7 +26,7 @@ tags:
 - Driver Monitoring Systems
 - Real-Time Systems
 - IEEE Access
-featured: false
+featured: true
 
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/10833644"
 url_code: ""
