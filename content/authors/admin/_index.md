@@ -64,10 +64,10 @@ education:
     date_start: 2019-08-1
     date_end: 2020-07-30
     summary: |
-      GPA: 6.0/6.0
+      GPA: 4.0/5.0
 
-      Courses focused on computer vision, robotics and artificial intelligence.
-      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
+      Courses focused on computer vision, natural language processing and artificial intelligence.
+      My master thesis was on on Synthetic Face ID Generation using Generative Adversarial Network (GAN), at the C3I-Xperi Group under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
     date_start: 2012-09-01
