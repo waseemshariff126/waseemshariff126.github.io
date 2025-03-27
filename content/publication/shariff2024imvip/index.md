@@ -23,7 +23,7 @@ tags:
 - Driver Distraction Detection
 - Spiking Neural Networks
 - Driver Monitoring Systems
-featured: true
+featured: false
 
 url_pdf: ""
 url_code: ""
