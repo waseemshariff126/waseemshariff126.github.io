@@ -63,7 +63,7 @@ education:
   - area: MSc in Computer Science Specializing in Artificial Intelligence
     institution: National University of Galway, Ireland
     date_start: 2019-08-01
-    date_end: 2020-07-30
+    date_end: 2020-07-25
     summary: |
         Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN)
       Courses included:
@@ -73,7 +73,7 @@ education:
    - area: BE Computer Science and Engineering
     institution: Nagarjuna College of Engineering and Technology
     date_start: 2015-08-01
-    date_end: 2019-5-30
+    date_end: 2019-05-30
     summary: |
         Thesis on Image Understanding and Captioning
       GPA: 8.3/10
