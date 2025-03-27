@@ -42,17 +42,18 @@ profiles:
     url: https://orcid.org/0000-0001-7298-9389
 
 education:
-  - area: Ph.D. Computer Vision and Robotics
-    institution: University of Zurich
-    date_start: 2018-08-01
-    date_end: 2023-09-07
+  - area: Ph.D. Computer Vision and Electrical & Electronic Engineering
+    institution: University of Galway
+    date_start: 2021-08-01
+    date_end: 2025-01-01
     summary: |
-      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Efficient, Data-driven Perception with Event Cameras_, supervised by Prof. Davide Scaramuzza. A special thanks to my reviewers who were Prof. Kostas Daniilidis, Prof. Andreas Geiger, and Prof. Marc Pollefeys.
+      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Neuromorphic Event-Based Vision:
+Sparse and Spiking Networks for Efficient Vision Systems_, supervised by Prof. Peter Corcoran. A special thanks to my reviewers who were Prof. Martin Glavin, Prof. Karen Egiazarian, and Prof. John Breslin.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MSc Mechanical Engineering
-    institution: ETH Zurich
+  - area: MSc Artificial Intelligence
+    institution: University of Galway
     date_start: 2016-02-01
     date_end: 2018-04-01
     summary: |
