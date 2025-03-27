@@ -1,5 +1,5 @@
 ---
-title: Efficient Event Processing with Geometric Deep Learning
+title: Spiking-DD: Driver Distraction Detection using SNNs
 
 event: IMVIP 2024 Workshop on Event-based Vision
 event_url: https://sites.google.com/view/imvip2024/special-sessions/workshop-sensing-without-seeing
@@ -12,7 +12,7 @@ location: IMVIP 2024, Limerick, Ireland
 #  postcode: '94305'
 #  country: United States
 
-summary: A talk discussing deep learning techniques for efficient event processing at the IMVIO 2024 Workshop on Event-based Vision.
+summary: A talk discussing SNN techniques for efficient event processing at the IMVIP 2024 Workshop on Event-based Vision.
 abstract: ''
 
 # Talk start and end times.
