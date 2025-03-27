@@ -1,5 +1,5 @@
 ---
-title: 🧠 I successfully defended my Ph.D.!
+title: Ph.D. Defence!
 summary: I successfully defended my Ph.D. thesis titled "Neuromorphic Event-Based Vision - Sparse and Spiking Networks for Efficient Vision Systems".
 date: 2024-12-17
 tags:
