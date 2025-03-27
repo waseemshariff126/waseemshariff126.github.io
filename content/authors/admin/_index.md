@@ -59,13 +59,14 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
+    
  - area: MSc in Computer Science Specializing in Artificial Intelligence
     institution: National University of Galway, Ireland
     date_start: 2019-08-1
     date_end: 2020-07-30
     summary: |
         Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN) under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
-      GPA: First Class Honours
+      GPA - First Class Honours
    
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
