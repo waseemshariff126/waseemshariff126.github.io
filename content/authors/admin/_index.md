@@ -59,10 +59,10 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MSc Mechanical Engineering
-    institution: ETH Zurich
-    date_start: 2016-02-01
-    date_end: 2018-04-01
+  - area: MSc in Computer Science Specializing in Artificial Intelligence
+    institution: National University of Galway, Ireland
+    date_start: 2019-08-1
+    date_end: 2020-07-30
     summary: |
       GPA: 6.0/6.0
 
