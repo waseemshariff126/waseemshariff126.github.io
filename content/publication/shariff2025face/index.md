@@ -24,7 +24,7 @@ tags:
 - Neuromorphic Event Stream
 - Driver Monitoring Systems
 - Computational Efficiency
-featured: false
+featured: true
 
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/10833644"
 url_code: ""
