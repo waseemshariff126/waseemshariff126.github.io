@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Daniel Gehrig
+title: Waseem Shariff
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Daniel
-last_name: Gehrig
+first_name: Waseem
+last_name: Shariff
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,23 +21,25 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GRASP Lab, University of Pennsylvania
-    url: https://www.grasp.upenn.edu/
-
+  - name: C3I Lab, University of Galway
+    url: https://www.universityofgalway.ie/c3i/
+    
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:daniel.gehrig18@gmail.com'
+    url: 'mailto:waseemshariff126@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/DanielGehrig6
+    url: https://x.com/waseemshariff12
   - icon: brands/github
-    url: https://github.com/danielgehrig18
+    url: https://github.com/waseemshariff126
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/daniel-gehrig-942aa714b
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=FWpgbBsAAAAJ&hl=en
+    url: https://ie.linkedin.com/in/waseem-shariff-997534141
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=bgGFxfAAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7298-9389
 
 education:
   - area: Ph.D. Computer Vision and Robotics
