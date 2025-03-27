@@ -53,7 +53,7 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: University of Galway
-    date_start: 2022-09-1
+    date_start: 2022-09-01
     date_end: 2025-03-15
     summary: |
       Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by Prof Peter Corcoran. Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
@@ -62,7 +62,7 @@ education:
       url: 'https://example.com'
   - area: MSc in Computer Science Specializing in Artificial Intelligence
     institution: National University of Galway, Ireland
-    date_start: 2019-08-1
+    date_start: 2019-08-01
     date_end: 2020-07-30
     summary: |
         Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN)
@@ -70,13 +70,16 @@ education:
       - Machine Learning/Deep Learning
       - Embedded Image Processing 
       - NLP, Research-Ethics, Programming in AI
-  - area: BSc Mechanical Engineering
-    institution: ETH Zurich
-    date_start: 2012-09-01
-    date_end: 2015-07-01
+   - area: BE Computer Science and Engineering
+    institution: Nagarjuna College of Engineering and Technology
+    date_start: 2015-08-01
+    date_end: 2019-5-30
     summary: |
-      GPA: 5.6/6.0
-      My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
+        Thesis on Image Understanding and Captioning
+      GPA: 8.3/10
+      Courses included:
+      - Data Structures, Object Oriented Programming
+      - Software Engineering, Microprocessors, Micro-Controllers
 work:
   - position: Postdoctoral Researcher in the GRASP Lab at the University of Pennsylvania
     company_name: GRASP Lab, University of Pennsylvania
