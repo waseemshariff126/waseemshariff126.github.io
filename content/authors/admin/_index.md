@@ -70,18 +70,13 @@ education:
       - Embedded Image Processing 
       - NLP, Research-Ethics, Programming in AI
         
-  - area: BE Computer Science and Engineering
-    institution: Nagarjuna College of Engineering and Technology
-    date_start: 2015-08-01
-    date_end: 2019-5-30
+  - area: BE- Computer Science and Engineering
+    institution: ETH Zurich
+    date_start: 2012-09-01
+    date_end: 2015-07-01
     summary: |
-        Thesis on Image Understanding and Captioning
-      GPA: 8.3/10
-      
-      Courses included:
-      - Data Structures, Object Oriented Programming
-      - Software Engineering, Microprocessors, Micro-Controllers
-      - Project based Learning
+      GPA: 5.6/6.0
+      My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
         
 work:
   - position: Postdoctoral Researcher in the GRASP Lab at the University of Pennsylvania
