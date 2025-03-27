@@ -3,7 +3,7 @@ title: Lead Teaching Assistant for "Embedded Systems"
 summary:  I taught students how to code in Unix, Bash, Python, OpenCV, and deep learning on embedded platforms such as Raspberry Pi.
 type: landing
 
-date: 2022-08-15 to 2024-12-20
+date: 2022-08-15
 type: docs
 math: false
 tags:
