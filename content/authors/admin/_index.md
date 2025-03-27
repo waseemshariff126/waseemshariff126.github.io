@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Daniel Gehrig
+title: Waseem Shariff
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Daniel
-last_name: Gehrig
+first_name: Waseem
+last_name: Shariff
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,67 +21,72 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GRASP Lab, University of Pennsylvania
-    url: https://www.grasp.upenn.edu/
-
+  - name: C3I Lab, University of Galway
+    url: https://www.universityofgalway.ie/c3i/
+    
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:daniel.gehrig18@gmail.com'
+    url: 'mailto:waseemshariff126@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/DanielGehrig6
+    url: https://x.com/waseemshariff12
   - icon: brands/github
-    url: https://github.com/danielgehrig18
+    url: https://github.com/waseemshariff126
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/daniel-gehrig-942aa714b
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=FWpgbBsAAAAJ&hl=en
+    url: https://ie.linkedin.com/in/waseem-shariff-997534141
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=bgGFxfAAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7298-9389
 
 education:
-  - area: Ph.D. Computer Vision and Robotics
-    institution: University of Zurich
-    date_start: 2018-08-01
-    date_end: 2023-09-07
+  - area: Ph.D. Computer Vision and Electrical & Electronic Engineering
+    institution: University of Galway
+    date_start: 2021-08-01
+    date_end: 2025-01-01
     summary: |
-      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Efficient, Data-driven Perception with Event Cameras_, supervised by Prof. Davide Scaramuzza. A special thanks to my reviewers who were Prof. Kostas Daniilidis, Prof. Andreas Geiger, and Prof. Marc Pollefeys.
+      Graduated - thesis titled _Neuromorphic Event-Based Vision- Sparse and Spiking Networks for Efficient Vision Systems_, supervised by Prof. Peter Corcoran. A special thanks to my reviewers who were Prof. Martin Glavin, Prof. Karen Egiazarian, and Prof. John Breslin.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MSc Mechanical Engineering
-    institution: ETH Zurich
-    date_start: 2016-02-01
-    date_end: 2018-04-01
+  - area: MSc Artificial Intelligence
+    institution: University of Galway
+    date_start: 2019-08-01
+    date_end: 2020-07-01
     summary: |
-      GPA: 6.0/6.0
+      GPA: 1-1 First Class Honours 
 
-      Courses focused on computer vision, robotics and artificial intelligence.
-      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
-  - area: BSc Mechanical Engineering
-    institution: ETH Zurich
-    date_start: 2012-09-01
-    date_end: 2015-07-01
+      Courses included:
+      - Machine Learning/Deep Learning
+      - Embedded Image Processing 
+      - NLP, Research-Ethics, Programming in AI
+      My master thesis was on developing a sensing pipeine for Synthetic Face ID Generation using Generative Adversarial Network (GAN) at Xperi-C3I lab under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
+  - area: BE Computer Science Engineering
+    institution: Nagarjuna College of Engineering and Technology
+    date_start: 2015-08-01
+    date_end: 2019-05-01
     summary: |
-      GPA: 5.6/6.0
-      My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
+      GPA: 8.3/10.0
+      My bachelor thesis was on the developing an Image Understanding and Captioning computer vision pipeline.
 work:
-  - position: Postdoctoral Researcher in the GRASP Lab at the University of Pennsylvania
-    company_name: GRASP Lab, University of Pennsylvania
-    company_url: 'https://www.grasp.upenn.edu/'
+  - position: Postdoctoral Researcher in the C3I Lab at the University of Galway
+    company_name: C3I Lab, University of Galway
+    company_url: 'https://www.universityofgalway.ie/c3i/'
     company_logo: ''
-    date_start: 2024-05-13
+    date_start: 2025-03-15
     date_end: ''
     summary: |2-
-      Research on computer vision and robotics with and without event cameras, under the supervision of Prof. Kostas Daniilidis, and Prof. Pratik Chaudhari.
-  - position: Software Developer at F&P Robotics
-    company_name: F&P Robotics
-    company_url: ''
+      Research on cognitive computer vision with and without event cameras, under the supervision of Prof. Peter Corcoran.
+  - position: Research and Development Engineer
+    company_name: Fotonation/Xperi/Tobii
+    company_url: 'https://www.tobii.com/'
     company_logo: ''
-    date_start: 2015-08-01 
-    date_end: 2016-01-01
+    date_start: 2022-08-01 
+    date_end: 2025-02-01
     summary: |
-      Intership and part-time job at F&P Personal Robotics as a software developer on artificial intelligence and context management for service robotics.
+      R&D job was part of my employment based PhD program scheme funded by Research Ireland. 
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -90,7 +95,7 @@ skills:
     items:
       - name: C++
         description: ''
-        percent: 80
+        percent: 50
         icon: devicon/cpp
       - name: Python
         description: ''
@@ -106,28 +111,22 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Biking
-        description: ''
-        percent: 100
-        icon: bike
       - name: Travelling
         description: ''
         percent: 80
         icon: travel
-      - name: Languages
-        description: ''
-        percent: 80
-        icon: language
         
 languages:
   - name: English
     percent: 100
-  - name: German
+  - name: Urdu
     percent: 100
-  - name: French
-    percent: 80
+  - name: Kannada
+    percent: 100
+  - name: Hindi
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -186,4 +185,4 @@ awards:
 
 ---
 
-I am currently a postdoctoral researcher at the GRASP Lab, University of Pennsylvania, working on the intersection of computer vision, robotics and deep learning with and without event cameras. I am working under the supervision of Prof. Kostas Daniilidis and Prof. Pratik Chaudhari.
+I am a postdoctoral researcher at the C3I Laboratory under Professor Peter Corcoran, developing advanced computer vision and machine learning techniques to extract actionable insights from video data. My work spans cognitive computer vision and driver monitoring systems, leveraging both traditional and event-based imaging methods to enhance automotive safety.

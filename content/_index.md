@@ -35,9 +35,8 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a postdoctoral researcher at the GRASP Lab under the supervision of Prof. Kostas Daniilidis, and Prof. Pratik Chauhari, working on the insection of computer vision, robotics and machine learning with and without event cameras. 
+        My research examines the convergence of computer vision and machine learning, with a focus on developing novel methodologies for processing, representing, and extracting informative features from complex video data. By integrating conventional imaging approaches with emerging event-based camera technologies, I design algorithms that convert raw video inputs into structured data for subsequent analysis. Additionally, I investigate cognitive computer vision frameworks and contribute to the design of driver monitoring systems aimed at enhancing automotive safety. 
 
-        My main research focus lies in understanding the best way to process, represent and extract useful information from video data . 
         Please reach out to collaborate!
     design:
       columns: '1'
