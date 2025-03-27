@@ -203,4 +203,4 @@ awards:
 
 ---
 
-I am currently a postdoctoral researcher at the C3I Lab, University of Galway, working on the intersection of cognitive computer vision, and deep learning with and without event cameras. I am working under the supervision of Prof. Peter Corcoran.
+I am currently a postdoctoral researcher at the C3I Laboratory, University of Galway, working on the intersection of cognitive computer vision, and deep learning with and without event cameras. I am working under the supervision of Prof. Peter Corcoran.
