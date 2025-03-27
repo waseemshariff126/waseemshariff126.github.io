@@ -1,63 +1,77 @@
 ---
 # Display name
-title: Daniel Gehrig
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Daniel
-last_name: Gehrig
+first_name: Waseem
+last_name: Shariff
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻 
 
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
-role: Postdoctoral Researcher
+role: Machine Learning Scientist 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GRASP Lab, University of Pennsylvania
-    url: https://www.grasp.upenn.edu/
+  - name: University of Galway
+    url: https://www.universityofgalway.ie/c3i/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:daniel.gehrig18@gmail.com'
+    url: 'mailto:waseemshariff126@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/DanielGehrig6
+    url: https://x.com/waseemshariff12
   - icon: brands/github
-    url: https://github.com/danielgehrig18
+    url: https://github.com/waseemshariff126
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/daniel-gehrig-942aa714b
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=FWpgbBsAAAAJ&hl=en
+    url: https://ie.linkedin.com/in/waseem-shariff-997534141
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=bgGFxfAAAAAJ&hl=en
+  - icon: academicons/orcid
+    url: https://orcid.org/0000-0001-7298-9389
+
+interests:
+  - Artificial Intelligence
+  - Computer Vision
+  - Neuromorphic Imaging
+  - Driver Monitoring System
 
 education:
-  - area: Ph.D. Computer Vision and Robotics
-    institution: University of Zurich
-    date_start: 2018-08-01
-    date_end: 2023-09-07
+  - area: PhD Artificial Intelligence
+    institution: University of Galway
+    date_start: 2022-09-1
+    date_end: 2025-03-15
     summary: |
-      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Efficient, Data-driven Perception with Event Cameras_, supervised by Prof. Davide Scaramuzza. A special thanks to my reviewers who were Prof. Kostas Daniilidis, Prof. Andreas Geiger, and Prof. Marc Pollefeys.
-    #button:
-    #  text: 'Read Thesis'
-    #  url: 'https://example.com'
-  - area: MSc Mechanical Engineering
-    institution: ETH Zurich
-    date_start: 2016-02-01
-    date_end: 2018-04-01
+      Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by Prof Peter Corcoran. Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MSc in Computer Science Specializing in Artificial Intelligence
+    institution: National University of Galway, Ireland
+    date_start: 2019-08-1
+    date_end: 2020-07-30
     summary: |
-      GPA: 6.0/6.0
+        Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN)
+      GPA: 1:1 First Class Honours 
 
-      Courses focused on computer vision, robotics and artificial intelligence.
-      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
+      Courses included:
+      - Machine Learning/Deep Learning
+      - Embedded Image Processing 
+      - NLP, Research-Ethics, Programming in AI
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
     date_start: 2012-09-01
