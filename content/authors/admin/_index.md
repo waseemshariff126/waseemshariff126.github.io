@@ -56,7 +56,7 @@ education:
     date_start: 2022-09-1
     date_end: 2025-03-15
     summary: |
-      Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by [Prof Peter Corcoran](https://www.universityofgalway.ie/science-engineering/staff-profiles/petercorcoran/). Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
+      Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by [Prof Peter Corcoran](). Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
