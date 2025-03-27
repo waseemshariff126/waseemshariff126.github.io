@@ -52,8 +52,8 @@ interests:
 education:
   - area: Ph.D. Computer Vision and Artificial Intelligence
     institution: University of Galway
-    date_start: 2022-09-1
-    date_end: 2025-03-15
+    date_start: 2022-09-15
+    date_end: 2024-01-01
     summary: |
       Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by Prof Peter Corcoran. Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
     #button:
