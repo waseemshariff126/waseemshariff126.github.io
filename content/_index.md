@@ -35,11 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am currently a postdoctoral researcher at the C3I Laboratory, working under the supervision of Professor Peter Corcoran. My research resides at the nexus of computer vision and machine learning, where I investigate both traditional imaging methods and emerging event-based camera technologies.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+My primary research focus is on developing and refining advanced methodologies for processing, representing, and extracting actionable insights from complex video data. This includes formulating novel algorithms that bridge the gap between raw video inputs and meaningful, structured information. I am deeply committed to advancing the state-of-the-art in this dynamic field and welcome opportunities for collaboration with fellow researchers and industry professionals.
     design:
       columns: '1'
   - block: collection
