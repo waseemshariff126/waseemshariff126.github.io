@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Waseem Shariff
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Waseem Shariff
 
 # Full name (for SEO)
 first_name: Waseem
@@ -66,7 +66,6 @@ education:
     date_end: 2020-07-30
     summary: |
         Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN)
-      GPA: 1:1 First Class Honours 
 
       Courses included:
       - Machine Learning/Deep Learning
