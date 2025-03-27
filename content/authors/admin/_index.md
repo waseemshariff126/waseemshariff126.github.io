@@ -64,8 +64,6 @@ education:
     date_start: 2019-08-1
     date_end: 2020-07-30
     summary: |
-      GPA: 4.0/5.0
-
       My master thesis was on on Synthetic Face ID Generation using Generative Adversarial Network (GAN), at the C3I-Xperi Group under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
       Courses included:
       - Machine Learning/Deep Learning
