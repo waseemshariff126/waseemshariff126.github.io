@@ -1,9 +1,9 @@
 ---
-title: Lecturer for "Vision Algorithms for Mobile Robotics" 
-summary: I gave the "Deep Learning" course at the "Vision Algorithms for Mobile Robotics" course at ETH Zurich/UZH Zurich. The course covers the basics of deep neural networks for geometric computer vision.
+title: Lead Teaching Assistant for "Embedded Systems" 
+summary:  I taught students how to code in Unix, Bash, Python, OpenCV, and deep learning on embedded platforms such as Raspberry Pi.
 type: landing
 
-date: 2023-10-24
+date: 2022-08-15 to 2024-12-20
 type: docs
 math: false
 tags:
@@ -12,6 +12,11 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-I gave the deep learning lectures at the "Vision Algorithms for Mobile Robotics" taught by Prof. Davide Scaramuzza at the University of Zurich and ETH Zurich in 2019-2022.
+Furthermore, I held the role of lead teaching assistant for the embedded systems component of the course. In this capacity, I was responsible for:
+- Designing and delivering comprehensive lab sessions focused on practical coding skills.
+- Teaching Unix command line fundamentals and Bash scripting to equip students with essential tools for automation and system management.
+- Instructing Python programming, emphasizing its application in computer vision and data processing.
+- Introducing students to OpenCV for real-time image processing and computer vision tasks.
+- Guiding students through deep learning techniques optimized for embedded platforms, specifically using Raspberry Pi as a hands-on platform for experimentation.
 
-Additionally, I acted as a TA for the course in 2019 and 2020.
+This role involved developing detailed course materials, organizing interactive workshops, and providing one-on-one mentoring, ensuring that students gained both theoretical insights and practical experience in coding and deploying solutions on resource-constrained embedded systems.
