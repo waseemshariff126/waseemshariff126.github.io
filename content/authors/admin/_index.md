@@ -50,12 +50,12 @@ interests:
 
 
 education:
-  - area: Ph.D. Computer Vision and Robotics
-    institution: University of Zurich
-    date_start: 2018-08-01
-    date_end: 2023-09-07
+  - area: Ph.D. Computer Vision and Artificial Intelligence
+    institution: University of Galway
+    date_start: 2022-09-1
+    date_end: 2025-03-15
     summary: |
-      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Efficient, Data-driven Perception with Event Cameras_, supervised by Prof. Davide Scaramuzza. A special thanks to my reviewers who were Prof. Kostas Daniilidis, Prof. Andreas Geiger, and Prof. Marc Pollefeys.
+      Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by Prof Peter Corcoran. Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
