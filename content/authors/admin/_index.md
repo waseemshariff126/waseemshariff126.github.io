@@ -1,130 +1,105 @@
 ---
 # Display name
-title: 吳健雄
+title: Daniel Gehrig
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Waseem
-last_name: Shariff
+first_name: Daniel
+last_name: Gehrig
 
 # Status emoji
 status:
-  icon: 👨‍💻 
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
-
 # Role/position/tagline
-role: Machine Learning Scientist 
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Galway
-    url: https://www.universityofgalway.ie/c3i/
+  - name: GRASP Lab, University of Pennsylvania
+    url: https://www.grasp.upenn.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:waseemshariff126@gmail.com'
+    url: 'mailto:daniel.gehrig18@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/waseemshariff12
+    url: https://twitter.com/DanielGehrig6
   - icon: brands/github
-    url: https://github.com/waseemshariff126
+    url: https://github.com/danielgehrig18
   - icon: brands/linkedin
-    url: https://ie.linkedin.com/in/waseem-shariff-997534141
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=bgGFxfAAAAAJ&hl=en
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0001-7298-9389
-
-interests:
-  - Artificial Intelligence
-  - Computer Vision
-  - Neuromorphic Imaging
-  - Driver Monitoring System
+    url: https://www.linkedin.com/in/daniel-gehrig-942aa714b
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?user=FWpgbBsAAAAJ&hl=en
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: University of Galway
-    date_start: 2022-09-1
-    date_end: 2025-03-15
+  - area: Ph.D. Computer Vision and Robotics
+    institution: University of Zurich
+    date_start: 2018-08-01
+    date_end: 2023-09-07
     summary: |
-      Thesis on Neuromorphic Event-based Vision: Sparse and Spiking Networks for Efficient Vision System. Supervised by Prof Peter Corcoran. Presented papers at 4 IEEE journals with 4 contributions being published in ECCV, ICMV and IMVIP conference.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MSc in Computer Science Specializing in Artificial Intelligence
-    institution: National University of Galway, Ireland
-    date_start: 2019-08-1
-    date_end: 2020-07-30
+      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Efficient, Data-driven Perception with Event Cameras_, supervised by Prof. Davide Scaramuzza. A special thanks to my reviewers who were Prof. Kostas Daniilidis, Prof. Andreas Geiger, and Prof. Marc Pollefeys.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MSc Mechanical Engineering
+    institution: ETH Zurich
+    date_start: 2016-02-01
+    date_end: 2018-04-01
     summary: |
-        Thesis on Synthetic Face ID Generation using Generative Adversarial Network (GAN)
-      GPA: 1:1 First Class Honours 
+      GPA: 6.0/6.0
 
-      Courses included:
-      - Machine Learning/Deep Learning
-      - Embedded Image Processing 
-      - NLP, Research-Ethics, Programming in AI
-  - area: BE Computer Science and Engineering
-    institution: Nagarjuna College of Engineering and Technology
-    date_start: 2015-08-01
-    date_end: 2019-5-30
+      Courses focused on computer vision, robotics and artificial intelligence.
+      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
+  - area: BSc Mechanical Engineering
+    institution: ETH Zurich
+    date_start: 2012-09-01
+    date_end: 2015-07-01
     summary: |
-        Thesis on Image Understanding and Captioning
-      GPA: 8.3/10
-      
-      Courses included:
-      - Data Structures, Object Oriented Programming
-      - Software Engineering, Microprocessors, Micro-Controllers
-      - Project based Learning
+      GPA: 5.6/6.0
+      My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Researcher in the GRASP Lab at the University of Pennsylvania
+    company_name: GRASP Lab, University of Pennsylvania
+    company_url: 'https://www.grasp.upenn.edu/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-05-13
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Research on computer vision and robotics with and without event cameras, under the supervision of Prof. Kostas Daniilidis, and Prof. Pratik Chaudhari.
+  - position: Software Developer at F&P Robotics
+    company_name: F&P Robotics
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-08-01 
+    date_end: 2016-01-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Intership and part-time job at F&P Personal Robotics as a software developer on artificial intelligence and context management for service robotics.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: devicon/cpp
+      - name: Python
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: devicon/python
+      - name: PyTorch
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 100
+        icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -133,57 +108,82 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Biking
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: bike
+      - name: Travelling
         description: ''
         percent: 80
-        icon: camera
-
+        icon: travel
+      - name: Languages
+        description: ''
+        percent: 80
+        icon: language
+        
 languages:
   - name: English
     percent: 100
-  - name: Hindi
+  - name: German
     percent: 100
-  - name: Urdu
-    percent: 100
-  - name: Kannada
-    percent: 100
+  - name: French
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: ETH Medal
+    url: https://mavt.ethz.ch/news-and-events/d-mavt-news/2019/05/eth-medaille-2019.html
+    date: 2019-05-13
+    awarder: ETH Zurich
+    icon: ETH
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      I won the ETH Medal for the best Master's Thesis of the year in mechanical engineering. My thesis, titled "Asynchronous, Photometric Feature Tracking with Events and Frames", was published in ECCV 2018, received an oral, and was invited by IJCV for a journal extension.
+      I completed this thesis at the Robotics and Perception Group under the supervision of Davide Scaramuzza.
+  - title: Willi Studer Prize
+    url: https://mavt.ethz.ch/news-and-events/d-mavt-news/2019/05/willi-studer-preis-2019.html
+    date: 2019-05-13
+    awarder: ETH Zurich
+    icon: ETH
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      I won the Willi Studer Prize for the highest GPA (6.0/6.0) of the year in mechanical engineering.
+      
+  - title: UZH Annual Award
+    url: https://www.ifi.uzh.ch/en/news/faculty-award-daniel-gehrig.html
+    date: 2023-04-30
+    awarder: University of Zurich
+    icon: UZH
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      For my thesis titled "Efficient, Data-driven Perception with Event Cameras" I won the prestigious UZH Annual Award, which is given for the best Ph.D. within the department of informatics at the University of Zurich.
+      
+  - title: Best Presentation Award at the ONSVP workshop at ICRA 2021 in Xi'an
+    url: https://sites.google.com/view/onsvp-icra-2021-workshop/home
+    date: 2021-06-04
+    awarder: ONSVP Comittee
+    icon: ICRA
+    summary: 
+      Our paper on "Event-based Asynchronous Sparse Convolutional Networks" was selected for the best presentation award, in the On- and Near-sensor Vision Processing (ONSVP) workshop, at ICRA 2021 in Xi'an.
+      
+  - title: NCCR Swiss Robotics Master Award
+    url: https://mavt.ethz.ch/news-and-events/d-mavt-news/2022/11/female-robotics-researchers-honored.html
+    date: 2022-11-04
+    awarder: NCCR Robotics
+    icon: NCCR
+    summary: 
+      The work by Michelle Rüegg that contributed to the paper "Combining Events and Frames using Recurrent Asynchronous Multimodal Networks for Monocular Depth Prediction", presented at RA-L 2021 lead to the NCCR Swiss Robotics Master Award
+  
+  - title: UZH Master Thesis Award
+    url: https://rpg.ifi.uzh.ch/awards.html
+    date: 2023-04-13
+    awarder: UZH
+    icon: UZH
+    summary: 
+      The work by Asude Aydin that contributed to the paper "A Hybrid ANN-SNN Architecture for Low-Power and Low-Latency Visual Perception"
+      at a CVPR Workshop 2024 lead to a UZH Master Thesis Award.
+
+
 ---
 
-## About Me
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a postdoctoral researcher at the GRASP Lab, University of Pennsylvania, working on the intersection of computer vision, robotics and deep learning with and without event cameras. I am working under the supervision of Prof. Kostas Daniilidis and Prof. Pratik Chaudhari.
