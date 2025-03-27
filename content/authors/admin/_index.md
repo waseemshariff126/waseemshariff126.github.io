@@ -53,13 +53,16 @@ education:
     #  url: 'https://example.com'
   - area: MSc Artificial Intelligence
     institution: University of Galway
-    date_start: 2016-02-01
-    date_end: 2018-04-01
+    date_start: 2019-08-01
+    date_end: 2020-07-01
     summary: |
-      GPA: 6.0/6.0
+      GPA: 1-1 First Class Honours 
 
-      Courses focused on computer vision, robotics and artificial intelligence.
-      My master thesis was on designing an asynchronous, high-speed feature trackers with event and frame-based cameras, at the Robotics and Perception Group (RPG) under the supervision of Davide Scaramuzza.
+      Courses included:
+      - Machine Learning/Deep Learning
+      - Embedded Image Processing 
+      - NLP, Research-Ethics, Programming in AI
+      My master thesis was on developing a sensing pipeine for Synthetic Face ID Generation using Generative Adversarial Network (GAN) at Xperi-C3I lab under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
     date_start: 2012-09-01
