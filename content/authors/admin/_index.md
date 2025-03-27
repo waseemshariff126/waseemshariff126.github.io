@@ -83,9 +83,9 @@ education:
       - Project based Learning
         
 work:
-  - position: Postdoctoral Researcher in the GRASP Lab at the University of Pennsylvania
-    company_name: GRASP Lab, University of Pennsylvania
-    company_url: 'https://www.grasp.upenn.edu/'
+  - position: Postdoctoral Researcher in the  Lab at the University of Pennsylvania
+    company_name:  Lab, University of Pennsylvania
+    company_url: 'https://www..upenn.edu/'
     company_logo: ''
     date_start: 2024-05-13
     date_end: ''
@@ -203,4 +203,4 @@ awards:
 
 ---
 
-I am currently a postdoctoral researcher at the GRASP Lab, University of Pennsylvania, working on the intersection of computer vision, robotics and deep learning with and without event cameras. I am working under the supervision of Prof. Kostas Daniilidis and Prof. Pratik Chaudhari.
+I am currently a postdoctoral researcher at the C3I Lab, University of Galway, working on the intersection of cognitive computer vision, and deep learning with and without event cameras. I am working under the supervision of Prof. Peter Corcoran.
