@@ -66,8 +66,12 @@ education:
     summary: |
       GPA: 4.0/5.0
 
-      Courses focused on computer vision, natural language processing and artificial intelligence.
       My master thesis was on on Synthetic Face ID Generation using Generative Adversarial Network (GAN), at the C3I-Xperi Group under the supervision of Prof Michael Schukat and Prof Peter Corcoran.
+      Courses included:
+      - Machine Learning/Deep Learning
+      - Embedded Image Processing 
+      - NLP, Research-Ethics, Programming in AI
+        
   - area: BSc Mechanical Engineering
     institution: ETH Zurich
     date_start: 2012-09-01
