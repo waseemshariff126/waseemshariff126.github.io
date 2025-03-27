@@ -71,11 +71,11 @@ education:
       - NLP, Research-Ethics, Programming in AI
         
   - area: BE- Computer Science and Engineering
-    institution: ETH Zurich
-    date_start: 2012-09-01
-    date_end: 2015-07-01
+    institution: Nagarjuna College of Engineering and Technology
+    date_start: 2015-08-01
+    date_end: 2019-05-01
     summary: |
-      GPA: 5.6/6.0
+      GPA: 8.3/10
       My bachelor thesis was on the design of humidity filters for breath analysis at the Particle Technology Lab (PTL) under the supervision of Sotiris Pratsinis.
         
 work:
