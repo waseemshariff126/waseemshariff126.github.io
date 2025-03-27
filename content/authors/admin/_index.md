@@ -47,8 +47,7 @@ education:
     date_start: 2021-08-01
     date_end: 2025-01-01
     summary: |
-      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Neuromorphic Event-Based Vision:
-Sparse and Spiking Networks for Efficient Vision Systems_, supervised by Prof. Peter Corcoran. A special thanks to my reviewers who were Prof. Martin Glavin, Prof. Karen Egiazarian, and Prof. John Breslin.
+      Graduated with Summa Cum Laude (6.0/6.0) with my thesis titled _Neuromorphic Event-Based Vision- Sparse and Spiking Networks for Efficient Vision Systems_, supervised by Prof. Peter Corcoran. A special thanks to my reviewers who were Prof. Martin Glavin, Prof. Karen Egiazarian, and Prof. John Breslin.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
