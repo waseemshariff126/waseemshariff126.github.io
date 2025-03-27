@@ -68,7 +68,7 @@ education:
       Courses included:
       - Machine Learning/Deep Learning
       - Embedded Image Processing 
-      - NLP, Research-Ethics, Programming in AI
+      - NLP, Research-Ethics, Programming in AI 
         
   - area: BE- Computer Science and Engineering
     institution: Nagarjuna College of Engineering and Technology
