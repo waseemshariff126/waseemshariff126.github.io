@@ -23,7 +23,7 @@ tags:
 - Object Detection
 - Thermal Imaging
 - IEEE Access
-featured: True
+featured: true
 
 url_pdf: "https://ieeexplore.ieee.org/abstract/document/9618926"
 url_code: ""
